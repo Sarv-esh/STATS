@@ -2,3 +2,4 @@
 
 # key commands
 
+docker run 
