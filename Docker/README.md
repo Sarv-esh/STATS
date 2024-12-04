@@ -2,4 +2,4 @@
 
 # key commands
 
-docker run : 
+docker run : create and run container
