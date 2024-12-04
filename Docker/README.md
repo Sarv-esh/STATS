@@ -3,3 +3,4 @@
 # key commands
 
 docker run : create and run container
+docker start : 
