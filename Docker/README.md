@@ -8,3 +8,4 @@ docker exec : interact with running container
 docker inspect : get details information
 docker logs : fetch containers logs
 docker cp : copy files between host and container
+docker stats : 
