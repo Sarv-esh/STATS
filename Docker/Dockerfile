@@ -1,1 +1,1 @@
-FORM nginx
+FORM nginx:latest
