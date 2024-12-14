@@ -1,4 +1,6 @@
 FROM nginx:latest
 
 
-nginx 
+nginx -server
+
+instalation
