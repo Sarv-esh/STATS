@@ -1,2 +1,2 @@
 FROM nginx:latest
-LABEL key="value"
+LABEL key="sarvesh"
