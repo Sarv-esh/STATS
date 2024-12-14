@@ -1,1 +1,1 @@
-FORM nginx:latest
+FROM nginx
