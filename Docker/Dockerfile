@@ -1,2 +1,2 @@
 FROM nginx:latest
-LABEL key="sarvesh"
+LABEL author="sarvesh"
