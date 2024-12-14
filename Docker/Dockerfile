@@ -1,3 +1,3 @@
 FROM nginx:latest
 LABEL author="sarvesh"
-COPY  dest
+COPY index.html dest
