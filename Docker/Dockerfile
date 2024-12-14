@@ -1,3 +1,3 @@
 FROM nginx:latest
 LABEL author="sarvesh"
-COPY index.html /usr/share/
+COPY index.html /usr/share/nginx/html
