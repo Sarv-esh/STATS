@@ -13,4 +13,4 @@ COPY index.html /var/www/html/
 
 EXPOSE 80
 
-CMD [ "apachectl","-D" ]
+CMD [ "apachectl","-D","FOREGROUND" ]
