@@ -7,4 +7,4 @@ CMD [ "nginx","-g","daemon off;" ]
 
 FROM ubuntu:latest
 
-RUN 
+RUN apt-get update 
