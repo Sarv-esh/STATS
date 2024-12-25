@@ -5,4 +5,4 @@ EXPOSE 80
 CMD [ "nginx","-g","daemon off;" ]
 
 
-FROM baseImage
+FROM ubuntu:latest
