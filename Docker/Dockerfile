@@ -6,3 +6,5 @@ CMD [ "nginx","-g","daemon off;" ]
 
 
 FROM ubuntu:latest
+
+RUN 
